@@ -1,2 +1,2 @@
-# fundamental-data-outlier-detection
-Fundamental data cleaning based on correlation result, and data outlier.
+# Final Examination Data Science 2022/2023
+Demonstrate data exploraion, cleaning and tranforming for dataset Diabetes.
